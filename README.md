@@ -21,7 +21,7 @@ The repository contains a list of various algorithms that are widely used in Jav
 
 
 [Fizz Buzz]: algorithms/fizzbazz/
-[Harmless Ransom Note]: "algorithms/harmless/
+[Harmless Ransom Note]: algorithms/harmless/
 [Is Palindrome]: algorithms/palindrome/
 [Caesar Cipher]: algorithms/caesarcipher/
 [Reverse Words]: algorithms/reversewords/
