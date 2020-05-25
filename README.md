@@ -36,4 +36,5 @@ The repository contains a list of various algorithms that are widely used in Jav
 [Merge Sort]: algorithms/mergesort/
 [Max Stock Profit]: algorithms/maxstockprofit/
 
+
 © 2020
