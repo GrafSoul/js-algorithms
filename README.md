@@ -18,8 +18,6 @@ The repository contains a list of various algorithms that are widely used in Jav
 * **[Merge Sort]**
 * **[Max Stock Profit]**
 
-
-
 [Fizz Buzz]: algorithms/fizzbazz/
 [Harmless Ransom Note]: algorithms/harmless/
 [Is Palindrome]: algorithms/palindrome/
@@ -35,6 +33,5 @@ The repository contains a list of various algorithms that are widely used in Jav
 [Bubble Sort]: algorithms/bubblesort/
 [Merge Sort]: algorithms/mergesort/
 [Max Stock Profit]: algorithms/maxstockprofit/
-
 
 © 2020
