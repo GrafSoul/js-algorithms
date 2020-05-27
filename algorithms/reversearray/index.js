@@ -3,7 +3,9 @@
  * The Algorithm - "Reverse Array In Place"
  */
 
-// The algorithm mirrors the position of elements in the array.
+// The algorithm mirrors the position of elements in the array, sorting out
+// only half of the elements in the array. The index of the elements 
+// of the second half is calculated automatically and new values ​​are written in them.
 
 function reverseArrayInPlace(arr) {
     // In the loop, change the value in each element of the array
