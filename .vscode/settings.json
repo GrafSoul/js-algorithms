@@ -4,5 +4,8 @@
     "sync.autoDownload": true,
     "files.autoSave": "afterDelay",
     "editor.fontSize": 16,
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "cSpell.words": [
+        "videocalling"
+    ]
 }
